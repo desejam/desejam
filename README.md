@@ -24,5 +24,7 @@ Here are some ideas to get you started:
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
  <br>
+    
   ![Snake animation](https://github.com/DevFernandes/welcome/blob/main/github-contribution-grid-snake.svg)
+  
 </div>
