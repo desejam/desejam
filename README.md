@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Front-end/Web`**
 
-Olá! Sou estudante de Sistemas de Informação pela Faculdade Mogi das Cruzes, atualmente no sétimo semestre. Tenho me dedicado a aprofundar meu conhecimento em desenvolvimento web, especialmente em HTML, CSS e JavaScript, que são atualmente meu principal foco.
-
 <p align="left">
     <a href="https://github.com/desejam?tab=followers">
         <img 
@@ -73,14 +71,6 @@ Olá! Sou estudante de Sistemas de Informação pela Faculdade Mogi das Cruzes, 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"
-/>
-<img
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" 
 />
 
 <img 
