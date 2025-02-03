@@ -113,12 +113,7 @@
    style="padding-top: 10px;"
    src="https://github-readme-activity-graph.vercel.app/graph?username=desejam&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
  />
-
-<div style="display: inline_block"><br>
-
-   <img align="center" alt="CSS" height="30" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+ 
  <br>
       </center>
     
