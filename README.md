@@ -1,17 +1,8 @@
 ## Olá, eu sou Matheus Fernandes 👋
 
-<div align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tha-lias&layout=compact&theme=radical" />
-</a>
-
-</div>
-
-<br>
-
 Tenho o prazer de compartilhar um pouco sobre meus conhecimentos na área de TI e como desenvolvedor. Desde cedo, descobri que a combinação entre criatividade e código poderia transformar o mundo ao nosso redor.
 
-
+Com toda essa paixão a guiar o meu desenvolvimento, iniciei minha jornada. Comecei com os meus cursos de desenvolvimento web; em seguida, avancei para a área de técnico em informática. Atualmente, estou cursando graduação em Ciência da Computação.
 
 Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos anos, tive a oportunidade de trabalhar em projetos desafiadores, onde pude aprimorar minhas habilidades e contribuir para inovações em plataformas.
 
@@ -20,7 +11,6 @@ Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos ano
 - 👯 **Estou procurando colaborar em**: Projetos envolvendo **React.js**, **Node.js** e **JavaScript**.
 - 💬 **Pergunte-me sobre**: **Desenvolvimento web**, **tecnologias frontend** ou **melhores práticas de codificação**.
 - 📫 **Como me alcançar**: [matheusfernandesxlx@gmail.com](mailto:matheusfernandesxlx@gmail.com)
-- 😄 **Pronomes**: Ele/Dele
 - ⚡ **Curiosidade**: Uma vez, criei um jogo simples em JavaScript só por diversão, e ele acabou se tornando um hobby viciante!
 
 **`Desenvolvedor Front-end/Web`**
@@ -90,6 +80,7 @@ Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos ano
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     />
 </p>
+
 <br>
 
 #### **Backend**
@@ -135,6 +126,7 @@ Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos ano
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
 </p>
+
 <br>
 
 #### **Outras Tecnologias**
@@ -188,9 +180,7 @@ Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos ano
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"
     />
 </p>
-<br><br>
-
----
+<br>
 
 ### 🐱‍🏍 Estatísticas do GitHub
 
@@ -224,7 +214,7 @@ Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos ano
 <br>
 
 <center>
-    
+  
   ![Animação Snake](https://github.com/DevFernandes/welcome/blob/main/github-contribution-grid-snake.svg)
   
 </center>
