@@ -20,6 +20,8 @@
 <p align="left">
 </p>
 
+<br>
+
 **`Desenvolvedor Front-end/Web`**
 
 <p align="left">
