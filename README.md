@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar em projetos envolvendo **React.js**, **Node.js** e **JavaScript**.
 - 🤔 Estou buscando ajuda para **otimizar o desempenho** em aplicações de grande escala.
 - 💬 Pergunte-me sobre **desenvolvimento web**, **tecnologias frontend** ou **melhores práticas de codificação**.
-- 📫 Como me alcançar: [matheus.oliveira@email.com](mailto:matheusfernandesxlx@gmail.com)
+- 📫 Como me alcançar: [matheusfernandesxlx@gmail.com](mailto:matheusfernandesxlx@gmail.com)
 - ⚡ Curiosidade: Uma vez, criei um jogo simples em JavaScript só por diversão, e ele acabou se tornando um hobby viciante!
 
 **`Desenvolvedor Front-end/Web`**
