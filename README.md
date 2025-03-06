@@ -17,9 +17,9 @@
 
 ---
 
-### 👾 Linguagens e Tecnologias
+## `Linguagens e Tecnologias`
 
-#### **Frontend**
+#### `Frontend`
 <p>
     <img 
         align="left" 
@@ -73,7 +73,7 @@
 
 <br>
 
-#### **Backend**
+#### `Backend`
 <p>
     <img 
         align="left" 
@@ -119,7 +119,7 @@
 
 <br>
 
-#### **Outras Tecnologias**
+#### `Outras Tecnologias`
 <p>
     <img 
         align="left" 
