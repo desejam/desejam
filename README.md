@@ -1,13 +1,12 @@
-## Hi there 👋, Matheus Fernandes
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Olá, eu sou Matheus Fernandes 👋
+
+- 🔭 Atualmente estou trabalhando em melhorar minhas habilidades em **Desenvolvimento Full Stack** e criando aplicações web inovadoras.
+- 🌱 Atualmente estou aprendendo sobre **API** e **React** para aprimorar meus conhecimentos em DevOps.
+- 👯 Estou procurando colaborar em projetos envolvendo **React.js**, **Node.js** e **JavaScript**.
+- 🤔 Estou buscando ajuda para **otimizar o desempenho** em aplicações de grande escala.
+- 💬 Pergunte-me sobre **desenvolvimento web**, **tecnologias frontend** ou **melhores práticas de codificação**.
+- 📫 Como me alcançar: [matheus.oliveira@email.com](mailto:matheusfernandesxlx@gmail.com)
+- ⚡ Curiosidade: Uma vez, criei um jogo simples em JavaScript só por diversão, e ele acabou se tornando um hobby viciante!
 
 **`Desenvolvedor Front-end/Web`**
 
@@ -67,8 +66,8 @@ Here are some ideas to get you started:
 />
 <img 
     align="left" 
-    alt="Sql" 
-    title="Sql"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
@@ -94,12 +93,12 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 🐱‍🏍 Estatísticas
+### 🐱‍🏍 Estatísticas do GitHub
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats 1" 
+    alt="Estatísticas do GitHub 1" 
     height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=desejam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -107,7 +106,7 @@ Here are some ideas to get you started:
 
 <img  
     align="left"
-    alt="GitHub Stats 2" 
+    alt="Estatísticas do GitHub 2" 
     height="170" 
     style="padding-top: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=desejam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -117,15 +116,16 @@ Here are some ideas to get you started:
 
 <img
    align="left"
-   alt="activity-graph graph" 
+   alt="Gráfico de Atividade"
    height="289"
    style="padding-top: 10px;"
    src="https://github-readme-activity-graph.vercel.app/graph?username=desejam&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
  />
- 
+
  <br>
       </center>
     
   ![Snake animation](https://github.com/DevFernandes/welcome/blob/main/github-contribution-grid-snake.svg)
   
 </div>
+
