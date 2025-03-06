@@ -17,7 +17,7 @@
 
 ---
 
-## `Linguagens e Tecnologias`
+#### `Linguagens e Tecnologias`
 
 #### `Frontend`
 <p>
