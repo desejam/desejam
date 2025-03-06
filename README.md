@@ -1,17 +1,24 @@
-## Olá, eu sou Matheus Fernandes 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Tenho o prazer de compartilhar um pouco sobre meus conhecimentos na área de TI e como desenvolvedor. Desde cedo, descobri que a combinação entre criatividade e código poderia transformar o mundo ao nosso redor.
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-Com toda essa paixão a guiar o meu desenvolvimento, iniciei minha jornada. Comecei com os meus cursos de desenvolvimento web; em seguida, avancei para a área de técnico em informática. Atualmente, estou cursando graduação em Ciência da Computação.
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-Minha experiência abrange várias tecnologias e ferramentas, e ao longo dos anos, tive a oportunidade de trabalhar em projetos desafiadores, onde pude aprimorar minhas habilidades e contribuir para inovações em plataformas.
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-- 🔭 **Atualmente estou trabalhando em**: Melhorando minhas habilidades em **Full Stack Development** e criando aplicações web inovadoras.
-- 🌱 **Atualmente estou aprendendo**: **Docker** e **Kubernetes** para aprimorar meus conhecimentos em DevOps.
-- 👯 **Estou procurando colaborar em**: Projetos envolvendo **React.js**, **Node.js** e **JavaScript**.
-- 💬 **Pergunte-me sobre**: **Desenvolvimento web**, **tecnologias frontend** ou **melhores práticas de codificação**.
-- 📫 **Como me alcançar**: [matheusfernandesxlx@gmail.com](mailto:matheusfernandesxlx@gmail.com)
-- ⚡ **Curiosidade**: Uma vez, criei um jogo simples em JavaScript só por diversão, e ele acabou se tornando um hobby viciante!
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+</p>
 
 **`Desenvolvedor Front-end/Web`**
 
