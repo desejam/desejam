@@ -7,7 +7,7 @@ I am constantly seeking new projects that challenge me and help me enhance my sk
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desejam\&theme=white&layout=compact)
 
-## Redes Sociais
+## 🌳 Redes Sociais
 
 <p align="left">
     <a href="https://github.com/desejam?tab=followers">
