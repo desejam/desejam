@@ -1,4 +1,4 @@
-<img src="" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="" alt="" min-width="400px" max-width="400px" width="400px" align="right">
 
  My name is `Matheus Fernandes`, I am `front end Developer`<br>
 </p>
