@@ -1,9 +1,9 @@
-# 🚀 Hello World
+<center>
+
+## 🚀 Hello World
 I am **Matheus Fernandes**, a passionate **fullstack developer**, **designer**, and **technology enthusiast**. I love creating engaging digital experiences, building online communities, and exploring the latest innovations in the tech world.
 
 I am constantly seeking new projects that challenge me and help me enhance my skills, taking my knowledge to the next level.  
-
-<center>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desejam\&theme=white&layout=compact)
 
@@ -42,7 +42,6 @@ I am constantly seeking new projects that challenge me and help me enhance my sk
    src="https://github-readme-activity-graph.vercel.app/graph?username=desejam&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
  />
 
-<center>
   
   ![Animação Snake](https://github.com/DevFernandes/welcome/blob/main/github-contribution-grid-snake.svg)
   
