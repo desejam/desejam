@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
  My name is `Matheus Fernandes`, I am `front end Developer`<br>
 </p>
@@ -25,11 +25,11 @@
 
 ### 🐱‍🏍 Estatísticas do GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=desejam&theme=dark&hide_border=false&include_all_commits=true&locale=pt-br&count_private=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api?username=desejam&theme=github-dark&hide_border=false&include_all_commits=true&locale=pt-br&count_private=false)<br/><br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=desejam&theme=dark&locale=pt-br&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=desejam&theme=github-dark&locale=pt-br&hide_border=false)<br/>
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=desejam&theme=dark%hide_border=false&include_all_commits=true&locale=pt-br&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=desejam&theme=github-dark%hide_border=false&include_all_commits=true&locale=pt-br&count_private=false&layout=compact)
 
 <img
    align="left"
